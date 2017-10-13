@@ -1,6 +1,6 @@
 # IntelliCam
-Security Camera with Artifical Intelligence processing (Raspberry PI -> AWS Rekognition)
-Copyright Matthias Gemelli, Oct 2017
+Security Camera with Artifical Intelligence processing (Raspberry PI -> AWS Rekognition)  
+by  Matthias Gemelli, Oct 2017
 
 
 ## 0 - IntelliCam Features
@@ -38,6 +38,7 @@ Mark explains how he let AWS Rekognition automatically detect (and notify him) i
 <https://www.bouvet.no/bouvet-deler/utbrudd/smarten-up-your-pi-zero-web-camera-with-image-analysis-and-amazon-web-services-part-1>
 - [Mark West: Smarten up your Pi Zero Web Camera with Image Analysis and AWS, pt2]  
 <https://www.bouvet.no/bouvet-deler/utbrudd/smarten-up-your-pi-zero-web-camera-with-image-analysis-and-amazon-web-services-part-2>
+- [Mark West: Github Repo] <https://github.com/markwest1972/smart-security-camera/>
 
 Also stumbled over the post by Amit Agrawal on the AWS blog, providing me with a simple and illustrated tutorial:   
 [Amit Agrawal: Capture and Analyze Customer Demographic Data Using Rekognition & Athena]
