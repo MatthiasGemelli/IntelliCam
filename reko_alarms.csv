@@ -1,0 +1,57 @@
+Suit,Clothing,Alarm
+Overcoat,Clothing,Alarm
+Plaid,Clothing,Alarm 
+Team,People,Alarm
+Female,People,Alarm
+Male,People,Alarm
+Baby,People,Alarm
+Child,People,Alarm
+Kid,People,Alarm
+Portrait,People,Alarm
+Selfie,People,Alarm
+People,People,Alarm
+Person,People,Alarm
+Human,People,Alarm
+Cyclist,People,Alarm
+Bicycle,Vehicle,Alarm
+Bike,Vehicle,Alarm
+Lifejacket,Clothing,Alarm
+Vest,Clothing,Alarm
+Apparel,Clothing,Alarm
+Clothing,Clothing,Alarm
+Vehicle,Vehicle,Quiet
+Automobile,Vehicle,Quiet
+Car,Vehicle,Quiet
+Sedan,Vehicle,Quiet
+Coupe,Vehicle,Quiet
+Sports Car,Vehicle,Quiet
+Van,Vehicle,Quiet
+Suv,Vehicle,Quiet
+Caravan,Vehicle,Quiet
+Building,House,Quiet
+Cottage,House,Quiet
+Housing,House,Quiet
+Downtown,Area,Quiet
+Neighborhood,Area,Quiet
+Town,Area,Quiet
+City,Area,Quiet
+Urban,Area,Quiet
+Dirt Road,Street,Quiet
+Gravel,Street,Quiet
+Road,Street,Quiet
+Alley,Street,Quiet
+Alleyway,Street,Quiet
+Street,Street,Quiet
+Parking,Parking, Quiet
+Parking Lot,Parking,Quiet
+Ambulance,Vehicle,Quiet
+Toilet,Weird,Quiet
+Windshield,Weird,Quiet
+Bumper,Vehicle,Quiet
+Plant,Parking,Quiet
+Potted Plant,Parking,Quiet
+Brick,House,Quiet
+Fence,House,Quiet
+Hedge,House,Quiet
+Path,Street,Quiet
+Walkway,Street,Quiet
