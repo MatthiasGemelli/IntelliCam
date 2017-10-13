@@ -47,8 +47,9 @@ Also stumbled over the post by Amit Agrawal on the AWS blog, providing me with a
 ## 3 - My Implementation (RPi --> S3 --> Lambda)
 If you want to follow my implementation, I suggest the following steps:
 
-1. Try the AWS Rekognition Demo with your sample images: 
-2. Setup AWS S3, IAM Role and AWS Lambda - test by manually uploading some images
+1. Try the AWS Rekognition Demo with your sample images
+2. Setup AWS S3, IAM Role and AWS Lambda - test by manually uploading some images. 
+Use this [code for Lambda]<https://github.com/MatthiasGemelli/IntelliCam/blob/master/IntelliCam_lambda_py.md>
 3. Setup RPi with Motion and automatic image upload to S3
 4. Image download
 
