@@ -22,7 +22,7 @@ import time
 import csv
 
 # 1st define the different input/output paths/names
-intellicam_bucket    = 'smartcam.gemelli.airbus.com'
+intellicam_bucket    = 'xxx.xxx.xxx'
 intellicam_alarmlist = 'reko_alarms.csv'   # Label / Category / Alarm
 intellicam_csv       = 'logs/reko_labels_'
 intellicam_log       = 'logs/reko_logs_'        # logging to this file
