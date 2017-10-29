@@ -2,6 +2,9 @@
 Security Camera with Artifical Intelligence processing (Raspberry PI -> AWS Rekognition)  
 by  Matthias Gemelli, Oct 2017
 
+![IntelliCam Topology](https://github.com/MatthiasGemelli/IntelliCam/blob/master/intellicam_topo.png)
+
+
 
 ## 0 - IntelliCam Features
 - automatic image recording & upload (Motion triggers s3_upload.py)
